@@ -1,3 +1,1 @@
-import os
-
-print("0")
+print("Hello,world!")
